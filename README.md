@@ -76,18 +76,15 @@ The hardware is encased in a **3D-printed, lightweight, and durable casing**, en
 
 <br>
 
-**Overall Working Flow**
-<div align="center">
+## **Overall Working Flow**
 
-</div>![wholeWorking](https://github.com/user-attachments/assets/ada44e5f-d82f-4c52-8bea-04cc0b058313)
+![wholeWorking](https://github.com/user-attachments/assets/ada44e5f-d82f-4c52-8bea-04cc0b058313)
 
 <br>
 
-**Working of Hardware Circuitry**
-<div align="center">
-  ![block3](https://github.com/user-attachments/assets/7ae0514b-9853-4ffb-a6a5-e3ef1fa474a2)
+## **Working of Hardware Circuitry**
 
-</div>
+![espWorking](https://github.com/user-attachments/assets/dfd0a8b5-1d46-495c-9502-56d1423d9e74)
 
 ---
 
