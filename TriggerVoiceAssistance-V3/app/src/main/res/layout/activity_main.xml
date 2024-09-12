@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg3"
+    android:backgroundTint="#3E0ACD"
+    android:backgroundTintMode="multiply"
+
+    tools:context=".MainActivity2">
+
+    <ImageButton
+        android:id="@+id/button2"
+        android:layout_width="269dp"
+        android:layout_height="265dp"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/button3"
+        android:elevation="500dp"
+        android:scaleType="fitCenter"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.884"
+        app:srcCompat="@drawable/obsdet" />
+
+    <ImageButton
+        android:id="@+id/button3"
+        android:layout_width="285dp"
+        android:layout_height="283dp"
+        android:layout_marginBottom="2dp"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/button2"
+        android:elevation="500dp"
+        android:scaleType="centerInside"
+        app:layout_constraintBottom_toTopOf="@+id/button2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.944"
+        app:srcCompat="@drawable/obd" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

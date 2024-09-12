@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vision Guardian</string>
+    <string name="button">Speak</string>
+    <string name="button2">Obstacle Detection\n(say "distance")</string>
+    <string name="button3">Object Identification\n(say "object")</string>
+    <string name="dist">Obstacle Detection Mode</string>
+
+    <string name="editText">Input Here..</string>
+    <string name="textView">Hello World</string>
+
+</resources>
