@@ -99,6 +99,11 @@ The hardware is encased in a **3D-printed, lightweight, and durable casing**, en
 7. [TP4056 Module (YouTube)](https://youtu.be/iA0KqqUVQCs?feature=shared)
 
 ---
+## Demo and Setup Videos
+https://youtu.be/ZJCVYAubN30?feature=shared
+https://youtu.be/KWKat1wZmNA?feature=shared
+
+---
 
 ## License
 
