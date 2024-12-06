@@ -100,8 +100,8 @@ The hardware is encased in a **3D-printed, lightweight, and durable casing**, en
 
 ---
 ## Demo and Setup Videos
-https://youtu.be/ZJCVYAubN30?feature=shared
-https://youtu.be/KWKat1wZmNA?feature=shared
+- https://youtu.be/ZJCVYAubN30?feature=shared
+- https://youtu.be/KWKat1wZmNA?feature=shared
 
 ---
 
